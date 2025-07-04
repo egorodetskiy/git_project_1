@@ -1,2 +1,2 @@
 Hello from add-feature1 branch!
-Another line from user2
+Line from user1
