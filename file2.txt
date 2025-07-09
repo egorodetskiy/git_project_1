@@ -1,7 +1,5 @@
 Good morning!
 Good night!
-<<<<<<< HEAD
-Good day!
-=======
 Good evening!
->>>>>>> ed6bfe5 (Change file2.txt)
+Good day!
+
