@@ -1,3 +1,5 @@
 Good morning!
 Good night!
 Good evening!
+Good day!
+
